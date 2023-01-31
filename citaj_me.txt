@@ -1,0 +1,6 @@
+Dobrodosli u Java OOP Akademiju!
+Cestitke na uspjesnom postavljanju Git okruzenja i prvom checkout-u.
+
+Puno uspjeha i zabave tijekom ucenja!
+
+Vedran
