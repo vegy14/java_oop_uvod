@@ -13,6 +13,7 @@
  * P0111 Primjer okvira Java programa, prvi Java program. 
  * Naredba za kompajliranje: javac ImePrograma.java 
  * Naredba za pokretanje programa: java ImePrograma
+ * 
  */
 public class P0111 {
 
